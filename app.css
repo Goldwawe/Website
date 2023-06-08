@@ -10,9 +10,13 @@
     background-size: cover;
     background-position: center;
 }
+.button{
+    align-content: center;
+}
 
 h1 {
     font-size:450%;
+    text-align: center;
 }
 
 body {
