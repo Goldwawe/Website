@@ -1,0 +1,3 @@
+function BlastButton() {
+    alert("BOOOOM!")
+} 
