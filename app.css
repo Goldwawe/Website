@@ -20,6 +20,18 @@
     white-space: nowrap;
     cursor: pointer;
   }
+  .imgbutton {
+    appearance: none;
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+  }
+  .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 22%;
+  }
 
   B1{
     position: absolute;
@@ -41,7 +53,7 @@
     position: absolute;
     margin: 10px 55%;
   }
-
+  
 h1 {
     font-size: 450%;
     text-align: center;

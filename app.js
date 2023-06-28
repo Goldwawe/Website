@@ -13,3 +13,6 @@ function BlastButton4() {
 function BlastButton5() {
     alert("5")
 } 
+function chomp(){
+    alert("CHOMP!")
+}
