@@ -11,21 +11,41 @@
     background-position: center;
 }
 .button {
-    background-color: #4CAF50;
+    background-color: #06a00b;
     border: none;
     color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
+    padding: 15px 50px;
     display: inline-block;
     font-size: 16px;
-    margin: 4px 2px;
+    white-space: nowrap;
     cursor: pointer;
   }
 
+  B1{
+    position: absolute;
+    margin: 10px 35%;
+  }
+  B2{
+    position: absolute;
+    margin: 10px 40%;
+  }
+  B3{
+    position: absolute;
+    margin: 10px 45%;
+  }
+  B4{
+    position: absolute;
+    margin: 10px 50%;
+  }
+  B5{
+    position: absolute;
+    margin: 10px 55%;
+  }
+
 h1 {
-    font-size:450%;
+    font-size: 450%;
     text-align: center;
+    
 }
 
 body {
